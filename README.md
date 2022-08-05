@@ -4,4 +4,4 @@ The cheat contains spaghetti code because Mr. Piki just started learning some ac
 
 # DISCLAIMER
 The cheat is completely out of date and will not work on newer versions. <br/>
-The whole point of this repo is to preserve the history of SN cheats without doing any harm to the new versions of the game.
+The whole point of this repo is to preserve the history of SN cheats without doing any harm to the newer versions of the game.

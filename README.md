@@ -1,6 +1,7 @@
 # Melon SN Hack by Piki
 An unreleased SN cheat by Piki after his first cheat and before his collaboration with Darth. <br/>
-The cheat contains spaghetti code because Mr. Piki just started learning some actual C# (also it feels weird to write about myself in third-person).
+The cheat contains spaghetti code because Mr. Piki just started learning some actual C# (also it feels weird to write about myself in third-person). <br/>
+The project dates back to somewhere around July 2020.
 
 # DISCLAIMER
 The cheat is completely out of date and will not work on newer versions. <br/>
